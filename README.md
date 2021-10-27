@@ -1,10 +1,14 @@
 # lab9
+
 Python Exceptions and Error Handling
+
 from netmiko import connectHandler
+
 from getpass impot getpass
 
 
 user = input('Please enter your username: ')
+
 secret = getpass('please enter your password: ')
 
 
